@@ -16,7 +16,7 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 ## NOTE
 
 ==> You can access the website live at:  <br>
-==> Python version 3.6.8 was used for the whole project.<br>
+==> Python version 3.6.15 was used for the whole project.<br>
 
 ## Steps to run this application in your system
 
