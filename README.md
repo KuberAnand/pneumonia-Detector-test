@@ -15,7 +15,7 @@ This webapp was developed using Flask Web Framework and was deployed on Heroku s
 
 ## NOTE
 
-==> You can access the website live at: https://pneumoniadetectorkssytest.herokuapp.com/ <br>
+==> You can access the website live at: https://pneumoniadetector.azurewebsites.net/ <br>
 ==> Python version 3.6.15 was used for the whole project.<br>
 
 ## Steps to run this application in your system
