@@ -13,6 +13,11 @@ This webapp was developed using Flask Web Framework and is deployed on Microsoft
 | -------------- | ------------------------ | -------- |
 | Pneumonia      | Deep Learning Model(CNN) | 95%      |
 
+
+## Deployment  
+
+
+
 ## NOTE
 
 ==> You can access the website live at: https://pneumoniadetector.azurewebsites.net/ <br>
