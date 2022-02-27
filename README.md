@@ -14,14 +14,20 @@ This webapp was developed using Flask Web Framework and is deployed on Microsoft
 | Pneumonia      | Deep Learning Model(CNN) | 95%      |
 
 
-## Deployment  
+## Deployment Screnshots :
+1. Home page
+![Capture](https://user-images.githubusercontent.com/80303856/155894623-24371b54-0a62-452f-8867-8efa11732394.PNG)
 
+2. Uploading the x-ray for prediction
+![Capture2](https://user-images.githubusercontent.com/80303856/155896486-427de6fa-755a-45e3-a58d-481e8ab6b996.PNG)
 
+3. Prediction of our model on x-ay
+![Capture3](https://user-images.githubusercontent.com/80303856/155896511-2ce59279-9694-472e-9e2e-91b1a9fc25ba.PNG)
 
 ## NOTE
 
 ==> You can access the website live at: https://pneumoniadetector.azurewebsites.net/ <br>
-==> Python version 3.6.15 was used for the whole project.<br>
+==> Python version 3.7 was used for the whole project.<br>
 
 ## Steps to run this application in your system
 
