@@ -4,7 +4,6 @@
 
 This webapp was developed using Flask Web Framework and is deployed on Microsoft Azure. The model used to predict the disease were trained on large Datasets. All the links for datasets and the model used for model creation are mentioned below in this readme. The webapp can predict following Disease:
 
-
 - Pneumonia
 
 ## Model with their Accuracy of Prediction
@@ -12,6 +11,11 @@ This webapp was developed using Flask Web Framework and is deployed on Microsoft
 | Disease        | Type of Model            | Accuracy |
 | -------------- | ------------------------ | -------- |
 | Pneumonia      | Deep Learning Model(CNN) | 95%      |
+
+
+## Microsoft azure service used :
+
+- Azure web apps service
 
 
 ## Deployment Screnshots :
