@@ -18,6 +18,14 @@ This webapp was developed using Flask Web Framework and is deployed on Microsoft
 - Azure web apps service
 
 
+## Group Members
+- Group Rep : 
+  [Kuber Anand](https://github.com/KuberAnand)
+  
+- Group Members
+  [Saumya](https://github.com/Git-Hub-ac)
+  [Yash](https://github.com/yashj0511)
+
 ## Deployment Screnshots :
 1. Home page
 ![Capture](https://user-images.githubusercontent.com/80303856/155894623-24371b54-0a62-452f-8867-8efa11732394.PNG)
@@ -32,6 +40,13 @@ This webapp was developed using Flask Web Framework and is deployed on Microsoft
 
 ==> You can access the website live at: https://pneumoniadetector.azurewebsites.net/ <br>
 ==> Python version 3.7 was used for the whole project.<br>
+
+## Demo Video
+
+
+https://user-images.githubusercontent.com/80303856/156380630-f3eeb375-e535-43e1-b5b2-b02de86313e3.mp4
+
+
 
 ## Steps to run this application in your system
 
