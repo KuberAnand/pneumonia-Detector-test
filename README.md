@@ -26,7 +26,9 @@ This webapp was developed using Flask Web Framework and is deployed on Microsoft
   [Saumya](https://github.com/Git-Hub-ac)
   [Yash](https://github.com/yashj0511)
 
+
 ## Deployment Screnshots :
+
 1. Home page
 ![Capture](https://user-images.githubusercontent.com/80303856/155894623-24371b54-0a62-452f-8867-8efa11732394.PNG)
 
