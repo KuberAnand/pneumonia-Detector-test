@@ -35,7 +35,7 @@ This webapp was developed using Flask Web Framework and is deployed on Microsoft
 2. Uploading the x-ray for prediction
 ![Capture2](https://user-images.githubusercontent.com/80303856/155896486-427de6fa-755a-45e3-a58d-481e8ab6b996.PNG)
 
-3. Prediction of our model on x-ay
+3. Prediction of our model on x-ray
 ![Capture3](https://user-images.githubusercontent.com/80303856/155896511-2ce59279-9694-472e-9e2e-91b1a9fc25ba.PNG)
 
 ## NOTE
