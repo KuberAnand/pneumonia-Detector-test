@@ -5,7 +5,6 @@ from PIL import Image
 from tensorflow.keras.models import load_model
 
 
-
 app = Flask(__name__)
 
 @app.route("/")
