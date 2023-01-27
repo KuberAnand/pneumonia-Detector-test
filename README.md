@@ -10,7 +10,7 @@ This webapp was developed using Flask Web Framework and is deployed on Microsoft
 
 | Disease        | Type of Model            | Accuracy |
 | -------------- | ------------------------ | -------- |
-| Pneumonia      | Deep Learning Model(CNN) | 95%      |
+| Pneumonia      | Deep Learning Model(CNN) | 96.75 %  |
 
 
 ## Microsoft azure service used :
